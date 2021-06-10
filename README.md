@@ -28,6 +28,8 @@
 
 :bulb: USB_RELAY Control via command-line [:earth_asia:](https://github.com/skrishnakanth/USB_HID_Relay_cmdline).
 
+:bulb: ESP32 FTP_Server with Micro SDcard [:earth:](https://github.com/skrishnakanth/ESP32_FTP_Server_with_SDcard).
+
 NOTE :pencil2: 
 
 * The Project can be verified by clicking  ->:earth_asia:<- icon of the respective project.
