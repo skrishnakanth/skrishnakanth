@@ -1,5 +1,5 @@
 # :telephone_receiver: Hello Everyone !!!
-## I am Krishnakanth.S  ':snowman:' , here you can find some interesting stuffs about :snowman:
+## I am Krishnakanth.S  ':Superman:' , here you can find some interesting stuffs about :Superman:
 
 ## Overview :school_satchel:
 
